@@ -3,10 +3,10 @@
     "displayName": "palespring",
     "description": "",
     "version": "0.0.1",
-    "publisher": "lucast",
+    "publisher": "palespring",
     "icon": "assets/pale-logo.png",
     "repository": {
-        "url": "https://github.com/luciantr24/palespring-vs"
+        "url": "https://github.com/luciantr24/palespring"
     },
     "author": {
         "name": "Lucas T"
