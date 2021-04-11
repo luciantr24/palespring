@@ -1,0 +1,33 @@
+{
+    "name": "palespring",
+    "displayName": "palespring",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "lucast",
+    "icon": "assets/pale-logo.png",
+    "repository": {
+        "url": "https://github.com/luciantr24/palespring-vs"
+    },
+    "author": {
+        "name": "Lucas T"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "",
+            "aliases": ["", ""],
+            "extensions": [""],
+            "configuration": "./language-configuration.json"
+        }],
+        "themes": [{
+            "label": "palespring",
+            "uiTheme": "vs-dark",
+            "path": "./themes/palespring.json"
+        }]
+    }
+}
